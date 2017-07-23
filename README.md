@@ -18,7 +18,7 @@ This movie trailer website is developed as part of Udacity's Machine Learning Fo
 # Installation:
 
 - Download the project files to a local machine.
-- You can download it from my github page-(https://github.com/Vittal-Prabhu/)
+- You can download it from my github page-(https://github.com/Vittal-Prabhu/Movie-Trailer-Website)
 - Run entertainment_center.py in python and website will load.
 
 # Instructions to install Python:
